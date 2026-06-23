@@ -15,8 +15,10 @@ This is my personal game development project for the **Stardance Challenge 2026*
 - **Type:** Software/Game Development
 
 ## 📸 Screenshots
-![Unity Editor](screenshot1.png)
-![Game Preview](screenshot2.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5f128ad-0841-4b3c-bf93-9bd17799a4e0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f22845a0-d562-400e-aaa0-a55cf1fb21ea" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/161516b3-dce5-458d-a65d-ad2377490a79" />
+
 
 ## 🎯 Features I'm Working On
 - ✅ Health bar system with smooth depletion
